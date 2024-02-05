@@ -6,10 +6,10 @@ A so beautiful langing page with very interesting additions in it.
 The following Headings you can see the website and everything you need to know.
 ___
 ## On Desktop's Screen
-<img src=""/>
+<img src="./Screenshot 2024-02-05 at 11-20-03 Frontend Mentor Huddle landing page with curved sections.png"/>
 
 ## On Phone's Screen
-<img src=""/>
+<img src="./Screen Shot 2024-02-05 at 11.20.27.png"/>
 
 ___
 ## Lessons
@@ -27,6 +27,6 @@ ___
 ___
 ## Info About Me
 My name is **Ryan Abdaulaziz**, and as it's clear, I'm a frontend developer, and I hope that my work met the expectation that you had of me.  
-If you interested to see more you can see [my github account]()  
-Follow me [on instagram]() and trust me, never regretted.  
-Follow me on [frontend mentor]().  
+If you interested to see more you can see [my github account](https://github.com/RyanAbdaul)  
+Follow me [on instagram](https://www.instagram.com/ryan.abdaul/) and trust me, never regretted.  
+Follow me on [frontend mentor](https://www.frontendmentor.io/profile/RyanAbdaul).  
